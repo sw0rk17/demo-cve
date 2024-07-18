@@ -1,3 +1,5 @@
+# Personal use - not real
+
 # Joomla Vulnerability Checker - CVE-2023-23752
 This tool checks for the presence of the CVE-2023-23752 vulnerability in Joomla websites. The vulnerability allows attackers to execute arbitrary code on the affected Joomla installations.
 
